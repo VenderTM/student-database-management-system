@@ -1,0 +1,3 @@
+﻿  training.cpp
+C:\Users\TMMVe\source\repos\training\training\training.cpp(43,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  training.vcxproj -> C:\Users\TMMVe\source\repos\training\x64\Debug\training.exe
